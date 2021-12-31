@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xEC03C89fee2814Fefd30F57e38Cfb45F46704205",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Turtle Tribe NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
